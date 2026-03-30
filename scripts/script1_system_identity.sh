@@ -3,7 +3,7 @@
 # Author: Prateek Chaturvedi | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Prateek Chaturvedi"   # Fill in your name
+STUDENT_NAME="Bhoomika Tiwari"   # Fill in your name
 SOFTWARE_CHOICE="Linux Kernel"      # Fill in your chosen software
 
 # --- System info ---
