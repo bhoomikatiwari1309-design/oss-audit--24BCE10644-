@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Prateek Chaturvedi
-* **Registration Number:** 24BCE10168
+* **Name:** Bhoomika Tiwari
+* **Registration Number:** 24BCE10644
 * **Course:** Open Source Software
 
 ---
