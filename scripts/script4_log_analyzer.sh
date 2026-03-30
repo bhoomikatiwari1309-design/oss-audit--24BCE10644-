@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Prateek Chaturvedi
+# Author: Bhoomika Tiwari
 # Usage: ./script4_log_analyzer.sh /var/log/syslog error
 
 LOGFILE=$1
