@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Prateek Chaturvedi
+# Author: Bhoomika Tiwari
 
 # Alias concept (example: alias ll='ls -la') can be used to simplify commands
 
