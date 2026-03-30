@@ -6,7 +6,7 @@
 LOGFILE=$1
 KEYWORD=${2:-"error"}    # Default keyword is 'error'
 COUNT=0
-
+ 
 # Check if file exists
 if [ ! -f "$LOGFILE" ]; then
     echo "Error: File $LOGFILE not found."
